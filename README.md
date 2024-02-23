@@ -1,2 +1,3 @@
 # leetcode.cn
-- [128. 最长连续序列](https://github.com/ding-hai/OnlineJudegemenetSolution/blob/main/leetcode-cn/L28/L128.md)
+- [128. 最长连续序列](./leetcode-cn/L128/Solution.md)
+- [73. 矩阵置零](./leetcode-cn/L73/Solution.md)

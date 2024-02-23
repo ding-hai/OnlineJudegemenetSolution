@@ -7,4 +7,4 @@
 自从一个子序列中最小的那个数字开始扩展, 这样时间复杂度为O(N).
 
 # code
-[L128.cc](./L128.cc)
+[Solution.cc](./Solution.cc)
